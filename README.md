@@ -52,13 +52,13 @@ Aquí están algunas de las tecnologías con las que trabajo:
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres decir hola!
 
-Puedes encontrarme en: [![Linkedin](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/b533b749-ed46-462a-943c-53dab792002a)]()
+Puedes encontrarme en: [![Linkedin](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/b533b749-ed46-462a-943c-53dab792002a)](https://www.linkedin.com/in/josmaryp-pirela-gonzalez)
 
 Visitando mi portafolio:
 [![Portafolio](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/8898031e-40b9-490c-9d96-b875f6a80e12)]()
 
 O a través de:
-[![Telegram](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/84adb221-140b-4a71-a461-8ba75177390b)](t.me/Josmarypg17)
-<a href="https://t.me/Josmarypg17> <img alt="Telegram Channel" src="https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/86ca3c9e-fd6d-4d9f-a1ef-88cb0edc2ca0"/></a>
+[![Telegram](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/84adb221-140b-4a71-a461-8ba75177390b)](https://t.me/josmarypg_dev)
+<a href="mailto:pirelajosmarydev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ¡Gracias por visitar mi perfil!
