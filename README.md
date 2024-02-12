@@ -59,6 +59,6 @@ Visitando mi portafolio:
 
 O a través de:
 [![Telegram](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/84adb221-140b-4a71-a461-8ba75177390b)](t.me/Josmarypg17)
-[![Gmail](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/86ca3c9e-fd6d-4d9f-a1ef-88cb0edc2ca0)](pirelajosmarydev@gmail.com)
+<a href="https://t.me/Josmarypg17> <img alt="Telegram Channel" src="https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/86ca3c9e-fd6d-4d9f-a1ef-88cb0edc2ca0"/></a>
 
 ¡Gracias por visitar mi perfil!
