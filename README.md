@@ -51,6 +51,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 ## Conecta conmigo <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres decir hola!
+
 Puedes encontrarme en: [![Linkedin](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/b533b749-ed46-462a-943c-53dab792002a)]()
 
 Visitando mi portafolio:
