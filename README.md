@@ -52,13 +52,9 @@ Aquí están algunas de las tecnologías con las que trabajo:
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres decir hola!
 
-Puedes encontrarme en: [![Linkedin](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/b533b749-ed46-462a-943c-53dab792002a)](https://www.linkedin.com/in/josmaryp-pirela-gonzalez)
+Puedes encontrarme a través de: 
 
-Visitando mi portafolio:
-[![Portafolio](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/8898031e-40b9-490c-9d96-b875f6a80e12)]()
 
-O a través de:
-[![Telegram](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/84adb221-140b-4a71-a461-8ba75177390b)](https://t.me/josmarypg_dev)
-<a href="mailto:pirelajosmarydev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img align="center" width=200px alt="QR Contact" src="https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/1a6938e7-aea9-4c5f-8002-108fc142e2a5" />
 
 ¡Gracias por visitar mi perfil!
