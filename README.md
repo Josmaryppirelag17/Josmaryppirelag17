@@ -54,7 +54,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 
 Puedes encontrarme a través de: 
 <br>
-<img align="center" width=200px alt="QR Contact" src="https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/1a6938e7-aea9-4c5f-8002-108fc142e2a5" />
+<img align="center" width=200px alt="QR Contact" src="https://github.com/Josmaryppirelag17/Josmaryppirelag17/blob/main/qrcode_185110085_00661ec52b218efeefc9e5a55b57f3b5.png" />
 <br>
 [![Link.tree](https://github.com/Josmaryppirelag17/Josmaryppirelag17/assets/157999083/643067f1-4578-42fe-97dc-dde51621b69b)](https://linktr.ee/josmarypg)
 
