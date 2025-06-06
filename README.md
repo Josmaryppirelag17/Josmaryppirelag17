@@ -87,13 +87,11 @@
 [🌟] [⭐] [💫] [✨] [⚡]
 ```
 
-<details>
-<summary>🎮 ¡Jugar!</summary>
+🎮 ¡Jugar!
 <br>
 ¡Felicitaciones! 🎉
 Has encontrado mi commit número 100
 <img src="https://github.com/Josmaryppirelag17/Josmaryppirelag17/blob/output/github-contribution-grid-snake.svg" />
-</details>
 
 </div>
 
