@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7A7ADB&center=true&vCenter=true&random=false&width=435&lines=%C2%A1Hola%2C+Soy+Josmary!;Frontend+Developer;Ing.+en+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7A7ADB&center=true&vCenter=true&random=false&width=435&lines=%C2%A1Hola%2C+Soy+Josmary!;Frontend+Developer;Estudio+Ing.+en+Sistemas)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,19 +41,6 @@
 
 </div>
 
-## 🏆 Logros Desbloqueados
-
-<div align="center">
-
-| 🎯 Objetivo | ✨ Estado |
-|------------|-----------|
-| Primer Commit | ✅ Desbloqueado |
-| Proyecto Frontend | ✅ Desbloqueado |
-| Contribución Open Source | 🔄 En Progreso |
-| Dominio de React | 🔄 En Progreso |
-
-</div>
-
 ## 🛠️ Arsenal de Tecnologías
 
 <div align="center">
@@ -66,6 +53,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </details>
 
 <details>
@@ -100,9 +89,6 @@ Has encontrado mi commit número 100
 <div align="center">
 
 [![Link.tree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/josmarypg)
-
-### 📱 Escanea mi QR
-<img width="200px" src="https://github.com/Josmaryppirelag17/Josmaryppirelag17/blob/main/qrcode_185110085_00661ec52b218efeefc9e5a55b57f3b5.png" />
 
 </div>
 
