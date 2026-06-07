@@ -4,25 +4,31 @@
 
 # 👋 Hello! I'm Josmary Pirela
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Systems+%26+Quality;Product+Builder;Design+with+Purpose" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+%2B+Full+Stack;Quality+First+Builder;Design+with+Purpose" alt="Typing SVG" />
 
 <br/>
 
 <!-- ==================== ABOUT ME ==================== -->
 
-## 👤 About Me — Engineering with Purpose
+## 👤 About Me — Building with Quality
 
-Software Engineer focused on **Systems Engineering** · **Quality Engineering** · **Product Development**
+Software Engineer focused on **Frontend Architecture**, **Full Stack Development**, and **Quality Engineering**.
 
-I design and build digital solutions where architecture, performance, and experience converge under real-world quality standards.
+I build digital products where **performance**, **testing**, and **user experience** are first-class concerns.
 
-I build systems by adapting observability, security, and maintainability to the product context.
+**Current Stack**
+Next.js · TypeScript · React · Tailwind · Vitest · Playwright
 
-Core Focus
-Systems · Quality · Product Engineering
+**Learning Roadmap**
 
-Principles
-Quality First · Observability · Performance · Accessibility
+🟢 Backend (Node.js + PostgreSQL) — In progress
+
+🟡 Docker + Containerization — Next
+
+⚪ Cloud (AWS/GCP) — Planned
+
+**Principles**
+Quality First · Type Safety · Performance · Accessibility
 
 > Code is the skeleton; creativity is the nervous system.
 
@@ -32,7 +38,7 @@ Build with rigor · Design with purpose · Create systems that endure.
 
 <!-- ==================== PROJECTS ==================== -->
 
-## 🚀 Featured Projects — From Concept to Experience
+## 🚀 Featured Projects — Progressive Complexity
 
 <div align="center">
 
@@ -41,44 +47,40 @@ Build with rigor · Design with purpose · Create systems that endure.
 
 <td width="50%" valign="top">
 
-### 🐝 BeeHive
+### 🐝 BeeHive — Productivity Dashboard
 
-Productivity ecosystem designed to transform planning into focused execution through modular workflows and interactive interfaces.
+Offline-first productivity ecosystem with Pomodoro timer, Kanban board, and gamification. **104 tests | 92/100 PageSpeed**
 
 **Focus**
+Frontend Architecture · Offline-first · Testing
 
-Productivity · UX · Observability
-
-**Core Stack**
-
-Next.js · PostgreSQL · Drizzle
+**Stack**
+Next.js · Zustand · IndexedDB · Vitest · Playwright
 
 <br/>
 
 <a href="https://github.com/Josmaryppirelag17/Dashboard-Bee">
-  <strong>→ Explore Product</strong>
+  <strong>→ Explore Project</strong>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 VIL Assistant
+### 🧠 VIL Assistant — AI Villain Assistant
 
-Context-aware AI experience combining conversation, web exploration and immersive terminal interactions.
+Context-aware AI with Groq LLM, web search, virtual browser, and terminal-style UI. **Full-stack with API routes**
 
 **Focus**
+AI Integration · Full Stack · Security (CSP A+)
 
-AI · Interaction · System Design
-
-**Core Stack**
-
-Next.js · Groq · Sentry
+**Stack**
+Next.js 16 · Groq API · Serper.dev · Sentry · GitHub Actions
 
 <br/>
 
 <a href="https://github.com/Josmaryppirelag17/Vil-Ai-Assistant">
-  <strong>→ Explore Product</strong>
+  <strong>→ Explore Project</strong>
 </a>
 
 </td>
@@ -88,55 +90,51 @@ Next.js · Groq · Sentry
 
 </div>
 
-
 <!-- ==================== SKILLS ==================== -->
 
-## 🛠️ Tech Stack — Tools Behind the Build
+## 🛠️ Tech Stack — What I Actually Use
 
-### 🏛️ Architecture & Systems
+### 🎯 Frontend Core
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
-
-### 🎨 Interface Engineering
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
 
 ---
 
-### 🛡️ Quality, Security & Reliability
+### 🛡️ Quality & Testing
 
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45BA63?style=flat-square&logo=playwright&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square)
 
 ---
 
-### ⚙️ Delivery & Infrastructure
+### ⚙️ Backend & APIs (Learning/Implementing)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B6B?style=flat-square)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-000000?style=flat-square)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+---
+
+### 🚀 Delivery & CI/CD
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 
 ---
 
-### 📊 Observability & Product Insight
+### 📚 Currently Learning
 
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-F54E00?style=flat-square)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&label=Learning)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&label=Learning)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&label=Upcoming)
 
 <!-- ==================== ANALYTICS ==================== -->
 
@@ -160,11 +158,11 @@ width="49%"
 
 ## 🎮 Developer Progress — Built Through Practice
 
-> _Current Stage:_ Building Foundations at Scale ·
-> _Approach:_ Systems × Quality × Experience ·
-> _Next Goal:_ Consolidate & Refine
+> _Current Stage:_ Frontend → Full Stack Transition ·
+> _Approach:_ Quality First · Testing Driven ·
+> _Next Goal:_ Backend Specialization
 
-<img src="https://img.shields.io/badge/Stage-Systems%20Builder-CC6699?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Stage-Full%20Stack%20Builder-CC6699?style=for-the-badge&logo=vercel&logoColor=white" />
 
 &nbsp;&nbsp;
 
@@ -179,46 +177,51 @@ width="49%"
 ### 📋 Active Growth Areas
 
 ```txt
-Current Focus Areas
+Current Learning Path
 
-SYSTEM DESIGN
-BACKEND
-QUALITY
-TESTING
-OBSERVABILITY
-LINUX
+✓ FRONTEND ARCHITECTURE   [████████░░] 80%
+✓ TESTING STRATEGY        [████████░░] 80%
+🟡 BACKEND (PostgreSQL)   [████░░░░░░] 40%
+🟡 API DESIGN             [████░░░░░░] 40%
+⚪ DOCKER                 [██░░░░░░░░] 20%
+⚪ CLOUD (AWS/GCP)        [░░░░░░░░░░] 10%
 ```
 
-<br/>
-
-<sub>
-Learning through building · Refactoring through iteration · Improving through measurement
-</sub>
+<sub> Learning through building · Refactoring through iteration · Improving through measurement </sub>
 
 </div>
+
+<!-- ==================== PROJECT METRICS ==================== -->
+
+## 📊 Project Metrics — Real Results
+
+| Project | Tests | Performance | Security |
+|---------|-------|-------------|----------|
+| **BeeHive** | 104 ✅ | 92/100 (PageSpeed) | A+ (Observatory) |
+| **VIL** | In progress | TBD | A+ (Observatory) |
 
 <!-- ==================== SYSTEM STATUS ==================== -->
 
 ## 🖥️ System Status — Runtime Overview
 
-> _"Code is the skeleton; creativity is the nervous system."_
+> *"Code is the skeleton; creativity is the nervous system."*
 
 **Kernel**
-Systems Engineering + Quality Engineering
+Frontend Architecture + Full Stack Development + Quality Engineering
 
 **Runtime**
-Next.js · Drizzle · PostgreSQL · React · TypeScript
+Next.js · TypeScript · React · Node.js
 
 **Operating Mode**
-Build → Validate → Refactor → Iterate
+Build → Test → Optimize → Iterate
 
 | Process | Status | Detail |
 |:--|:--:|:--|
-| 🧩 Architecture | 🟢 active | Systems thinking · scalability |
-| 🛡️ Security | 🟢 monitoring | Balanced quality without sacrificing usability |
-| 📈 Observability | 🟢 enabled | Metrics · tracking · feedback |
-| 🎨 Experience Layer | 🟢 rendering | Interactive & intentional interfaces |
-| 🔬 Continuous Learning | 🟢 running | Build first · refine continuously |
+| 🧩 Architecture | 🟢 active | Component-based · Atomic design |
+| 🛡️ Testing | 🟢 enabled | 104+ tests · E2E · Unit |
+| 📈 Performance | 🟢 optimized | 92/100 PageSpeed |
+| 🎨 User Experience | 🟢 active | Responsive · Accessible |
+| 🔬 Backend Learning | 🟡 in progress | PostgreSQL · APIs |
 
 </div>
 
@@ -226,37 +229,30 @@ Build → Validate → Refactor → Iterate
 
 ## ⚙️ Build Workflow — From Idea to Delivery
 
-| Explore | Architect | Refine |
-|:---:|:---:|:---:|
-| 🧠 | 🏛️ | ✨ |
-| Understand constraints | Design systems | Polish experience |
-| Research · Context | Structure · Decisions | Testing · Optimization |
+| Explore | Architect | Build | Test | Deploy |
+|:---:|:---:|:---:|:---:|:---:|
+| 🧠 | 🏛️ | ⚙️ | 🛡️ | 🚀 |
+| Research | Structure | Code | Validate | Launch |
+| Context | Decisions | Iterate | Quality | Monitor |
 
 <!-- ==================== CONTACT ==================== -->
 
 ## 📬 Let's Connect — Open Channels
 
-> Exploring ideas, building products or discussing systems.
+> Building products, learning systems, and sharing progress.
 
 <div align="center">
 
-
 <a href="https://josmarypirela.dev">
-<img
-src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/josmaryppirelag17">
-<img
-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:hola@josmarypirela.dev">
-<img
-src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -273,7 +269,7 @@ You reached the end of the system.
 
 A small reward for curious explorers:
 
-> _“There was no choice but to be pioneers; no one else was doing it.”_
+> *“There was no choice but to be pioneers; no one else was doing it.”*
 >
 > — Margaret Hamilton
 > Lead Software Engineer for the Apollo Guidance Computer (NASA)
