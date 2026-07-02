@@ -14,21 +14,21 @@
 
 Software Engineer focused on **Frontend Architecture**, **Full Stack Development**, and **Quality Engineering**.
 
-I build digital products where **performance**, **testing**, and **user experience** are first-class concerns.
+I build digital products where **performance**, **testing**, and **security** are first-class concerns — not an afterthought.
 
 **Current Stack**
-Next.js · TypeScript · React · Tailwind · Vitest · Playwright
+Next.js · TypeScript · React · Tailwind · Drizzle + Neon (PostgreSQL) · Vitest · Playwright
 
-**Learning Roadmap**
+**Exploring Now**
 
-🟢 Backend (Node.js + PostgreSQL) — In progress
+🟢 Docker + Containerization — In progress
 
-🟡 Docker + Containerization — Next
+🟡 Cloud (AWS/GCP) — Next
 
-⚪ Cloud (AWS/GCP) — Planned
+⚪ Redis + Caching Strategies — Planned
 
 **Principles**
-Quality First · Type Safety · Performance · Accessibility
+Quality First · Type Safety · Performance · Security by Design
 
 > Code is the skeleton; creativity is the nervous system.
 
@@ -49,13 +49,13 @@ Build with rigor · Design with purpose · Create systems that endure.
 
 ### 🐝 BeeHive — Productivity Dashboard
 
-Offline-first productivity ecosystem with Pomodoro timer, Kanban board, and gamification. **104 tests | 92/100 PageSpeed**
+Offline-first productivity ecosystem with Pomodoro timer, Kanban board, and gamification. **264 tests | Hybrid IndexedDB + Neon**
 
 **Focus**
 Frontend Architecture · Offline-first · Testing
 
 **Stack**
-Next.js · Zustand · IndexedDB · Vitest · Playwright
+Next.js · Zustand · IndexedDB · Drizzle · Vitest · Playwright
 
 <br/>
 
@@ -69,7 +69,7 @@ Next.js · Zustand · IndexedDB · Vitest · Playwright
 
 ### 🧠 VIL Assistant — AI Villain Assistant
 
-Context-aware AI with Groq LLM, web search, virtual browser, and terminal-style UI. **Full-stack with API routes**
+Context-aware AI with Groq LLM, web search, virtual browser, and full authentication. **222 tests | 100/100 Mobile Perf | A+ 115/100 Security**
 
 **Focus**
 AI Integration · Full Stack · Security (CSP A+)
@@ -79,7 +79,50 @@ Next.js 16 · Groq API · Serper.dev · Sentry · GitHub Actions
 
 <br/>
 
-<a href="https://github.com/Josmaryppirelag17/Vil-Ai-Assistant">
+<a href="https://github.com/Josmaryppirelag17/evil-ai">
+  <strong>→ Explore Project</strong>
+</a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎨 Portfolio — Canvas 3D + Audio Synth
+
+Personal portfolio with Canvas 3D scenes, a Web Audio synthesizer, and full i18n. **250+ tests | 90+ Lighthouse | A+ Security**
+
+**Focus**
+Creative Engineering · Performance · Security Hardening
+
+**Stack**
+Next.js · Canvas API · Web Audio API · Web Workers · CSP (nonce-based)
+
+<br/>
+
+<a href="https://github.com/Josmaryppirelag17/portfolio-next">
+  <strong>→ Explore Project</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔗 Link Hub — Cyberpunk Link-in-Bio
+
+Link-in-bio site with Canvas 2D physics, a real contact form with anti-spam, and a custom sound engine.
+
+**Focus**
+Interaction Design · Canvas Physics · Form Security
+
+**Stack**
+Next.js · Canvas 2D · TypeScript · Zod
+
+<br/>
+
+<a href="https://github.com/Josmaryppirelag17/personal-links">
   <strong>→ Explore Project</strong>
 </a>
 
@@ -113,11 +156,12 @@ Next.js 16 · Groq API · Serper.dev · Sentry · GitHub Actions
 
 ---
 
-### ⚙️ Backend & APIs (Learning/Implementing)
+### ⚙️ Backend & Data
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-FF6B6B?style=flat-square)
-![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-000000?style=flat-square)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
 ---
@@ -132,8 +176,8 @@ Next.js 16 · Groq API · Serper.dev · Sentry · GitHub Actions
 
 ### 📚 Currently Learning
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&label=Learning)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&label=Learning)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&label=Learning)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&label=Upcoming)
 
 <!-- ==================== ANALYTICS ==================== -->
@@ -158,15 +202,15 @@ width="49%"
 
 ## 🎮 Developer Progress — Built Through Practice
 
-> _Current Stage:_ Frontend → Full Stack Transition ·
-> _Approach:_ Quality First · Testing Driven ·
-> _Next Goal:_ Backend Specialization
+> _Current Stage:_ Full Stack Builder ·
+> _Approach:_ Quality First · Testing Driven · Security by Design ·
+> _Next Goal:_ Infrastructure & Cloud
 
 <img src="https://img.shields.io/badge/Stage-Full%20Stack%20Builder-CC6699?style=for-the-badge&logo=vercel&logoColor=white" />
 
 &nbsp;&nbsp;
 
-<img src="https://progress-bar.xyz/70/?title=Learning%20Momentum&width=320&color=d63384&suffix=%20continuous" />
+<img src="https://progress-bar.xyz/85/?title=Learning%20Momentum&width=320&color=d63384&suffix=%20continuous" />
 
 &nbsp;&nbsp;
 
@@ -179,12 +223,12 @@ width="49%"
 ```txt
 Current Learning Path
 
-✓ FRONTEND ARCHITECTURE   [████████░░] 80%
-✓ TESTING STRATEGY        [████████░░] 80%
-🟡 BACKEND (PostgreSQL)   [████░░░░░░] 40%
-🟡 API DESIGN             [████░░░░░░] 40%
-⚪ DOCKER                 [██░░░░░░░░] 20%
-⚪ CLOUD (AWS/GCP)        [░░░░░░░░░░] 10%
+✓ FRONTEND ARCHITECTURE   [█████████░] 90%
+✓ TESTING STRATEGY        [█████████░] 90%
+✓ BACKEND (PostgreSQL)    [████████░░] 80%
+✓ API DESIGN              [████████░░] 80%
+🟡 DOCKER                 [█████░░░░░] 50%
+⚪ CLOUD (AWS/GCP)        [███░░░░░░░] 30%
 ```
 
 <sub> Learning through building · Refactoring through iteration · Improving through measurement </sub>
@@ -197,8 +241,10 @@ Current Learning Path
 
 | Project | Tests | Performance | Security |
 |---------|-------|-------------|----------|
-| **BeeHive** | 104 ✅ | 92/100 (PageSpeed) | A+ (Observatory) |
-| **VIL** | In progress | TBD | A+ (Observatory) |
+| **BeeHive** | 264 ✅ | 92/100 (PageSpeed) | A+ (Observatory) |
+| **VIL Assistant** | 222 ✅ | 95/100 Desktop · 100/100 Mobile | A+ 115/100 (Observatory) |
+| **Portfolio** | 250+ ✅ | 90+ (Lighthouse) | A+ (CSP nonce-based) |
+| **Link Hub** | In progress | — | Zod-validated forms |
 
 <!-- ==================== SYSTEM STATUS ==================== -->
 
@@ -210,18 +256,19 @@ Current Learning Path
 Frontend Architecture + Full Stack Development + Quality Engineering
 
 **Runtime**
-Next.js · TypeScript · React · Node.js
+Next.js · TypeScript · React · Node.js · PostgreSQL
 
 **Operating Mode**
-Build → Test → Optimize → Iterate
+Build → Test → Secure → Optimize → Iterate
 
 | Process | Status | Detail |
 |:--|:--:|:--|
 | 🧩 Architecture | 🟢 active | Component-based · Atomic design |
-| 🛡️ Testing | 🟢 enabled | 104+ tests · E2E · Unit |
-| 📈 Performance | 🟢 optimized | 92/100 PageSpeed |
+| 🛡️ Testing | 🟢 enabled | 700+ tests across projects · E2E · Unit |
+| 🔒 Security | 🟢 hardened | A+ Observatory · CSP nonce-based |
+| 📈 Performance | 🟢 optimized | 90-92/100 Lighthouse/PageSpeed |
 | 🎨 User Experience | 🟢 active | Responsive · Accessible |
-| 🔬 Backend Learning | 🟡 in progress | PostgreSQL · APIs |
+| 🔬 Infra Learning | 🟡 in progress | Docker · Cloud (AWS/GCP) |
 
 </div>
 
